@@ -16,18 +16,18 @@
 
 <body  >
 <form action="validar.php" method="post">
-  <h1>TODOLIS</h1>
+  <h1>Tareas disponibles</h1>
 
   <div class="login-continer" >
-      <img src="IMG/listar2.webp" alt="" >
+      <img src="720.jpg" alt="" >
       <p>Iniciar tareas</p>
-      <label for="">Ingrese Correo Electornico</label>
+      <label for="">CORREO ELECTRONICO</label>
       <div class="fields">
          <div class="data">
          <i class="fas fa-at"></i>
          <input type="text" name="correo" placeholder="Correo electronico" required>
          </div>  
-         <label for="">Contraseña</label>
+         <label for="">CONTRASEÑA</label>
          <div class="data">
          <i class="fas fa-lock"></i>
          <input type="password" name="contraseña" placeholder="Contraseña" required>
