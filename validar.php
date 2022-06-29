@@ -23,7 +23,7 @@ if($filas){
     include("index.php");
 
   ?>
-  <h1 class="bad">ERROR DE AUTENTIFICACION</h1>
+  <h1 class="bad">ERROR AL INSERTAR</h1>
   <?php
 }
 mysqli_free_result($resultado);
