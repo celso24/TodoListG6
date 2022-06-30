@@ -17,7 +17,6 @@
   include('db.php');
   ?>
 
-
 <div class="container">
         <header class="text-center text-light my-4">
             <h1 class="mb-4">Lista de tareas</h1>
