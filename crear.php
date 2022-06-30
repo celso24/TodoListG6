@@ -9,7 +9,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5"></script>
   <link rel="stylesheet" href="style.css">
 
-    <title>Lista de tareas</title>
+    <title>crear tareas</title>
 </head>
 
 <body>
